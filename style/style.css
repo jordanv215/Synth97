@@ -46,6 +46,14 @@ input.welcome-search {
     padding-left: 5px;
 }
 
+.footer-clock {
+    display: inline-block;
+    float: right;
+    margin-right: 10px;
+    width: 75px;
+    text-align: center;
+}
+
 .start-text {
     color: black;
     display: inline-block;
