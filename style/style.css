@@ -12,6 +12,9 @@
 
 .start-text {
     color: black;
+    display: inline-block;
+    padding: 0px 5px 5px 0px;
+    margin: 5px;
 }
 
 .windows-start-icon {
