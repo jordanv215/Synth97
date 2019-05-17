@@ -95,6 +95,10 @@
     color: black;
 }
 
+.popup-header .right p:hover {
+    background: #8a8989;
+    cursor: pointer;
+}
 
 .footer-start-button:hover {
     background: #8a8989;
