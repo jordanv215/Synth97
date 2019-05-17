@@ -38,10 +38,9 @@ input.welcome-search {
     margin-top: 0px;
     margin-left: -2px;
     height: 40px;
-    border-right: 3px solid #828282;
-    border-bottom: 3px solid #828282;
-    border-left: 3px solid white;
-    border-top: 3px solid white;
+    border-left: 3px solid #828282;
+    border-top: 3px solid #828282;
+    width: 250px;
 }
 
 .start-text {
