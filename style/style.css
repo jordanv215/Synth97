@@ -45,6 +45,19 @@
     margin-top: 2rem;
 }
 
+.windows-popup {
+    height: 500px;
+    width: 700px;
+    background: #c0c0c0;
+    position: absolute;
+    float: none;
+    margin: 0 auto;
+    right: 25%;
+    top: 25%;
+    display: inline-block;
+    left: 25%;
+}
+
 .footer-start-button:hover {
     background: #8a8989;
 }
