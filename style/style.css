@@ -32,6 +32,10 @@
     border-top: 3px solid white;
 }
 
+.icon-2 {
+    margin-top: 2rem;
+}
+
 .footer-start-button:hover {
     background: #8a8989;
 }
