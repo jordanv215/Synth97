@@ -1,3 +1,26 @@
 .home-body {
     background: #008081;
 }
+
+.footer-start-button {
+    background: #c4c4c4;
+    display: inline;
+    padding: 1rem;
+    margin: 10px;
+}
+
+.start-text {
+    color: black;
+}
+
+.footer-start {
+    display: inline;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background: silver;
+    margin-left: -.5rem;
+}
