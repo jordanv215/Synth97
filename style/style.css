@@ -2,6 +2,23 @@
     background: #008081;
 }
 
+.body-wrap {
+    position: relative;
+}
+
+.my-computer {
+    width: 75px;
+    margin-left: 25px;
+}
+
+.home-icon-text {
+    width: 150px;
+    margin-left: 10px;
+    font-size: 20px;
+    color: white;
+    margin-top: 0;
+}
+
 .footer-start-button {
     background: #c4c4c4;
     display: inline-block;
