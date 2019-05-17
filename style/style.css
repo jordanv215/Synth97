@@ -145,6 +145,18 @@
     font-weight: bold;
 }
 
+.jordan-text {
+    text-align: center;
+    padding: 2rem;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+}
+
+.fliphone {
+    position: absolute;
+    left: 21%;
+}
+
 .footer-start-button:hover {
     background: #8a8989;
 }
