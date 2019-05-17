@@ -20,8 +20,15 @@
 }
 
 .footer-search {
-    width: 75px;
+    width: 100px;
     background: red;
+    display: inline-block;
+    vertical-align: text-bottom;
+}
+
+input.welcome-search {
+    background: red;
+    width: 200px;
     display: inline-block;
 }
 
