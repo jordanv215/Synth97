@@ -84,6 +84,8 @@
 
 .popup-header .left p {
     margin: 0;
+    color: white;
+    font-weight: bold;
 }
 
 .popup-header .right p {
