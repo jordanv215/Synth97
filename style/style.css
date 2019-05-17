@@ -137,6 +137,14 @@
     margin-left: 1rem;
 }
 
+.did-you-know-text {
+    margin-left: 1rem;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 1.5rem;
+    font-weight: bold;
+}
+
 .footer-start-button:hover {
     background: #8a8989;
 }
