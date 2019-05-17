@@ -132,6 +132,11 @@
     width: 450px;
 }
 
+.did-you-know {
+    margin-top: 1rem;
+    margin-left: 1rem;
+}
+
 .footer-start-button:hover {
     background: #8a8989;
 }
