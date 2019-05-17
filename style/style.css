@@ -56,6 +56,10 @@
     top: 20%;
     display: inline-block;
     left: 25%;
+    border-right: 3px solid #828281;
+    border-bottom: 3px solid #828281;
+    border-top: 3px solid white;
+    border-left: 3px solid white;
 }
 
 .popup-header {
