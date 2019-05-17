@@ -58,6 +58,21 @@
     left: 25%;
 }
 
+.popup-header {
+    background: #010081;
+    top: 0;
+    position: absolute;
+    width: 100%;
+}
+
+.popup-header .left {
+    color: white;
+}
+
+.popup-header .right {
+    color: white;
+}
+
 .footer-start-button:hover {
     background: #8a8989;
 }
