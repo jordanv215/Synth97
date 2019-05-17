@@ -8,7 +8,17 @@
     padding: 5px;
     margin: 10px;
     margin-top: 5px;
+    height: 25px;
+    border-right: 3px solid #828282;
+    border-bottom: 3px solid #828282;
+    border-left: 3px solid white;
+    border-top: 3px solid white;
 }
+
+.footer-start-button:hover {
+    background: #8a8989;
+}
+
 
 .start-text {
     color: black;
@@ -27,7 +37,7 @@
 
 footer {
     position: fixed;
-    height: 40px;
+    height: 50px;
     bottom: 0;
     width: 100%;
     background: silver;
