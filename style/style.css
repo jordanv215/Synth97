@@ -25,11 +25,16 @@
 }
 
 input.welcome-search {
-    background: #c4c4c4;
+    background:
+    radial-gradient(silver 5%, transparent 16%) 0 0,
+    radial-gradient(silver 5%, transparent 16%) 3px 3px,
+    radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 0 1px,
+    radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 8px 9px;
+    background-color: white;
+    background-size: 11px 11px;
     display: inline-block;
     padding: 15px;
     margin: 10px;
-    vertical-align: middle;
     margin-top: 0px;
     margin-left: -2px;
     height: 40px;
