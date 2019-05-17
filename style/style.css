@@ -120,6 +120,18 @@
     font-weight: bolder;
 }
 
+.inner-left-container {
+    background:
+    radial-gradient(silver 5%, transparent 16%) 0 0,
+    radial-gradient(silver 5%, transparent 16%) 3px 2px,
+    radial-gradient(rgba(255,255,255,.1) 7%, transparent 20%) 0 1px,
+    radial-gradient(rgba(255,255,255,.1) 15%, transparent 8%) 4px 4px;
+    background-color: #ffffd9;
+    background-size:3px 3px;
+    height: 350px;
+    width: 450px;
+}
+
 .footer-start-button:hover {
     background: #8a8989;
 }
