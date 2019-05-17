@@ -4,13 +4,18 @@
 
 .footer-start-button {
     background: #c4c4c4;
-    display: inline;
-    padding: 1rem;
+    display: inline-block;
+    padding: 5px;
     margin: 10px;
+    margin-top: 5px;
 }
 
 .start-text {
     color: black;
+}
+
+.windows-start-icon {
+    width: 25px;
 }
 
 .footer-start {
@@ -19,6 +24,7 @@
 
 footer {
     position: fixed;
+    height: 40px;
     bottom: 0;
     width: 100%;
     background: silver;
