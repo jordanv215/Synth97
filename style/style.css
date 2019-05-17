@@ -19,6 +19,11 @@
     background: #8a8989;
 }
 
+.footer-search {
+    width: 75px;
+    background: red;
+    display: inline-block;
+}
 
 .start-text {
     color: black;
