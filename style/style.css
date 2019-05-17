@@ -66,6 +66,7 @@ input.welcome-search {
 }
 
 footer {
+    border: 2px solid white;
     position: fixed;
     height: 50px;
     bottom: 0;
