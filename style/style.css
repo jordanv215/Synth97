@@ -26,12 +26,12 @@
 
 input.welcome-search {
     background:
-    radial-gradient(silver 5%, transparent 16%) 0 0,
-    radial-gradient(silver 5%, transparent 16%) 3px 3px,
-    radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 0 1px,
-    radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 8px 9px;
-    background-color: white;
-    background-size: 11px 11px;
+        radial-gradient(silver 5%, transparent 16%) 0 0,
+        radial-gradient(silver 5%, transparent 16%) 3px 1px,
+        radial-gradient(rgba(255,255,255,.1) 7%, transparent 20%) 0 1px,
+        radial-gradient(rgba(255,255,255,.1) 15%, transparent 8%) 4px 4px;
+        background-color: white;
+        background-size:3px 3px;
     display: inline-block;
     padding: 15px;
     margin: 10px;
