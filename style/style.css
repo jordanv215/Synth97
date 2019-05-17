@@ -54,6 +54,7 @@ input.welcome-search {
     vertical-align: middle;
     font-size: 18px;
     height: 100%;
+    font-weight: bold;
 }
 
 .windows-start-icon {
